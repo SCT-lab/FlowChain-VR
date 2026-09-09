@@ -34,10 +34,10 @@
 <p><strong>Note:</strong> On first launch, the main scene might appear hidden. To open it, go to <b>Assets → Scene → Scene.unity</b>.</p>
 
 <ol>
-  <li>Clone the repository or download the .zip from the green "Code" button:<br>
-    <code>git clone https://github.com/SCT-lab/VRADHD.git</code>
+  <li>Clone the repository or download the .zip from the green "Code" button / release version v1.0.0:<br>
+    <code>git clone https://github.com/SCT-lab/FlowChain-VR.git</code>
   </li>
-  <li>Open <b>VRChat Creator Companion</b>, click <b>Create New Project → Add Existing Project</b>, and select the cloned project folder.</li>
+  <li>Open <b>VRChat Creator Companion</b>, click <b>Create New Project → Add Existing Project</b>, and select the cloned and/or unzipped project folder.</li>
   <li>Press <b>Manage Project</b> and make sure the required packages from VRChat are installed.</li>
 </ol>
 
