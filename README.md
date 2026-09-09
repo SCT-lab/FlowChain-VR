@@ -1,5 +1,5 @@
 <h1 align="center">
-  Integrating EEG Sensors with Virtual Reality to Support Students with ADHD
+  FlowChain VR: A VR Role-Play Game for Inclusive Supply Chain Education
 </h1>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 <h2>Requirements</h2>
 <ul>
-  <li><b>Windows PC:</b> Tested on Windows 10 22H2</li>
+  <li><b>Windows PC (10/11):</b> Tested on Windows 10 22H2</li>
   <li><b>Virtual Reality:</b> Tested with a Meta Quest 3 VR headset</li>
   <li><b>SteamVR</b></li>
   <li><b>VRChat:</b> PC application or Android release (mobile phones / Meta headsets)</li>
@@ -28,18 +28,6 @@
     <a href="https://vcc.docs.vrchat.com/" target="_blank">Creator Companion</a>
   </li>
 </ul>
-
-<h2>Getting Started</h2>
-
-<p><strong>Note:</strong> On first launch, the main scene might appear hidden. To open it, go to <b>Assets → Scene → Scene.unity</b>.</p>
-
-<ol>
-  <li>Clone the repository or download the .zip from the green "Code" button / release version v1.0.0:<br>
-    <code>git clone https://github.com/SCT-lab/FlowChain-VR.git</code>
-  </li>
-  <li>Open <b>VRChat Creator Companion</b>, click <b>Create New Project → Add Existing Project</b>, and select the cloned and/or unzipped project folder.</li>
-  <li>Press <b>Manage Project</b> and make sure the required packages from VRChat are installed.</li>
-</ol>
 
 <h2>Unity Versions & Dependencies</h2>
 <ul>
@@ -56,10 +44,24 @@
 	  <li>VRChat SDK - Worlds (v3.5.0 or higher – <a href="https://github.com/vrchat/packages" target="_blank">GitHub</a></li></li>
       <li>Post Processing</li>
       <li>TextMeshPro</li>
-	  <li>AI Navigation (v1.1.7 or higher)</li>
+	  <li>AI Navigation (v1.1.7 or higher; NPC movement)</li>
     </ol>
   </li>
 </ul>
+
+<h2>Getting Started</h2>
+
+<p><strong>Note:</strong> On first launch, the main scene might appear hidden. To open it, go to <b>Assets → Scene → Scene.unity</b>.</p>
+
+<ol>
+	<li>Ensure a working Windows PC (10/11), with the VRC Creater Companion and Unity installed (2022.3.22f1, depending on the VRChat requirement). (</li>
+  <li>Clone the repository or download the .zip from the green "Code" button / release version v1.0.0:<br>
+    <code>git clone https://github.com/SCT-lab/FlowChain-VR.git</code>
+  </li>
+  <li>Open <b>VRChat Creator Companion</b>, click <b>Create New Project → Add Existing Project</b>, and select the cloned and/or unzipped project folder.</li>
+  <li>Press <b>Manage Project</b> and make sure the required packages from VRChat are installed.</li>
+</ol>
+
 
 <h3>Included Scripts</h3>
 <table border="1" cellpadding="8" cellspacing="0">
@@ -174,6 +176,7 @@
   <li>The project is technically compatible with all major VR headsets (HTC, Meta/Oculus, Valve, WMR headsets), Windows PC's and Android or iOS smartphones.</li>
   <li>The game logic is written in UdonSharp (VRChat-specific), which is a variant of C#.</li>
   <li>The included UdonSharp scripts can be found in <b>Assets → Scripts → test1_ UdonProgramSources</b>.</li>
+	<li>The included NPCs follow predefined rules, including adjusting order and inventory amounts dynamically, and displaying this information through a predefined character-specific voice sound and situation-specific text.</li>
 </ol>
 
 <h2>Development Team</h2>
