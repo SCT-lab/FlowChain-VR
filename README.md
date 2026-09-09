@@ -54,7 +54,7 @@
 <p><strong>Note:</strong> On first launch, the main scene might appear hidden. To open it, go to <b>Assets → Scene → Scene.unity</b>.</p>
 
 <ol>
-	<li>Ensure a working Windows PC (10/11), with the VRC Creater Companion and Unity installed (2022.3.22f1, depending on the VRChat requirement). (</li>
+	<li>Ensure a working Windows PC (10/11), with the VRC Creater Companion and Unity installed (2022.3.22f1, depending on the VRChat requirement).</li>
   <li>Clone the repository or download the .zip from the green "Code" button / release version v1.0.0:<br>
     <code>git clone https://github.com/SCT-lab/FlowChain-VR.git</code>
   </li>
@@ -176,7 +176,7 @@
   <li>The project is technically compatible with all major VR headsets (HTC, Meta/Oculus, Valve, WMR headsets), Windows PC's and Android or iOS smartphones.</li>
   <li>The game logic is written in UdonSharp (VRChat-specific), which is a variant of C#.</li>
   <li>The included UdonSharp scripts can be found in <b>Assets → Scripts → test1_ UdonProgramSources</b>.</li>
-	<li>The included NPCs follow predefined rules, including adjusting order and inventory amounts dynamically, and displaying this information through a predefined character-specific voice sound and situation-specific text.</li>
+	<li>The included NPCs follow predefined rules, including adjusting order and inventory amounts dynamically, and displaying this information through a predefined character-specific voice sound and situation-specific text. NPC 1 (Customer) moves intelligently (AI Navigation Unity Package) around the game world.</li>
 </ol>
 
 <h2>Development Team</h2>
