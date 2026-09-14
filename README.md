@@ -16,8 +16,8 @@
 </p>
 <div align="center">
 <img src="Android_iOS build1.png" width="1000" height="223 alt="Android Image">
-</div>
 <p>FlowChain VR running on a mobile device (Android/iOS)</p>
+</div>
 <h2>Requirements</h2>
 <ul>
   <li><b>Windows PC (10/11):</b> Tested on Windows 10 22H2</li>
