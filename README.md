@@ -14,7 +14,7 @@
 <p>
   This project provides an educational supply chain role play game, teaching the fundamentals of Supply Chain Management, and offers support for VR, desktop and mobile phones (Android/iOS). In addition, reference scripts for R are included to reverse engineer Emotiv's power-band calculations.
 </p>
-<img src="Android_iOS build.png" width="500" height="500 alt="Android Image">
+<img src="Android_iOS build1.png" width="1000" height="500 alt="Android Image">
 <h2>Requirements</h2>
 <ul>
   <li><b>Windows PC (10/11):</b> Tested on Windows 10 22H2</li>
