@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=w-_Mpbzgaeo" target="_blank">
-    <img src="https://img.youtube.com/vi/w-_Mpbzgaeo/maxresdefault.jpg" alt="VRADHD Video">
+    <img src="https://img.youtube.com/vi/w-_Mpbzgaeo/maxresdefault.jpg" alt="FlowChain Video">
   </a>
   <p>▶ Click the image to watch the video on YouTube</p>
 </div>
@@ -13,9 +13,8 @@
 <h2>Overview</h2>
 <p>
   This project provides an educational supply chain role play game, teaching the fundamentals of Supply Chain Management, and offers support for VR, desktop and mobile phones (Android/iOS). In addition, reference scripts for R are included to reverse engineer Emotiv's power-band calculations.
-
 </p>
-
+<img src="Android_iOS build.png" alt="Android Image">
 <h2>Requirements</h2>
 <ul>
   <li><b>Windows PC (10/11):</b> Tested on Windows 10 22H2</li>
