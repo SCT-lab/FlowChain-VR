@@ -14,7 +14,9 @@
 <p>
   This project provides an educational supply chain role play game, teaching the fundamentals of Supply Chain Management, and offers support for VR, desktop and mobile phones (Android/iOS). In addition, reference scripts for R are included to reverse engineer Emotiv's power-band calculations.
 </p>
+<div align="center">
 <img src="Android_iOS build1.png" width="1000" height="223 alt="Android Image">
+</div>
 <p>FlowChain VR running on a mobile device (Android/iOS)</p>
 <h2>Requirements</h2>
 <ul>
