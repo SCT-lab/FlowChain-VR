@@ -200,7 +200,14 @@
 <hr>
 
 <h2>Citation</h2>
-<p>
-If you use this code in your research, please cite:<br><br>
- Wolfers, J., Hurst, W., & Krampe, C. (2026). Integrating EEG Sensors with Virtual Reality to Support Students with ADHD. Sensors, 26(3), 1017. https://doi.org/10.3390/s26031017
-</p>
+<p>If you use this code in your research, please cite:</p>
+
+<ul>
+  <li>
+    Wolfers, J., Hurst, W., & Krampe, C. (2026). Integrating EEG Sensors with Virtual Reality to Support Students with ADHD. <em>Sensors</em>, <em>26</em>(3), 1017. <a href="https://doi.org/10.3390/s26031017" target="_blank">https://doi.org/10.3390/s26031017</a>
+  </li>
+  <br>
+  <li>
+    Wolfers, J., Hurst, W., & Krampe, C. (2026). FlowChain VR: A VR role-play game for inclusive supply chain education. <em>Software Impacts</em>, <em>26</em>, Article 100874. <a href="https://doi.org/10.1016/j.simpa.2026.100874" target="_blank">https://doi.org/10.1016/j.simpa.2026.100874</a>
+  </li>
+</ul>
